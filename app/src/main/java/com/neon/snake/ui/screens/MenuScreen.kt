@@ -157,6 +157,7 @@ fun MenuScreen(onStartGame: () -> Unit) {
             ) {
                 Text(
                     text = "START GAME",
+                    color = Color.Black,
                     fontSize = 20.sp,
                     fontWeight = FontWeight.Bold,
                     letterSpacing = 3.sp
