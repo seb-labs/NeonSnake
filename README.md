@@ -30,3 +30,6 @@ A copy of the current APK is also kept in the repo here:
 - UI: Jetpack Compose
 - Min SDK: 24
 - Target SDK: 34
+
+## Contact
+`NeonSnake@seblabs.unbox.at`
