@@ -17,12 +17,15 @@ A modern Android snake game with a dark neon style, built with Kotlin and Jetpac
 The debug APK will be created at:
 `app/build/outputs/apk/debug/app-debug.apk`
 
-## Ready-made APK
-A copy of the current APK is also kept in the repo here:
+## Download
+Official release:
+- [v1.0](https://github.com/seb-labs/NeonSnake/releases/tag/v1.0)
+
+A copy of the APK is currently also kept in the repo here:
 `APK/NeonSnake-debug.apk`
 
 ## Install
-- Copy the APK to your phone and install it manually.
+- Download the APK from the GitHub Release and install it manually.
 - Or use `adb install -r app/build/outputs/apk/debug/app-debug.apk`.
 
 ## Technical details
