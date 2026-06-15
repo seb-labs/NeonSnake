@@ -21,9 +21,6 @@ The debug APK will be created at:
 Official release:
 - [v1.0](https://github.com/seb-labs/NeonSnake/releases/tag/v1.0)
 
-A copy of the APK is currently also kept in the repo here:
-`APK/NeonSnake-debug.apk`
-
 ## Install
 - Download the APK from the GitHub Release and install it manually.
 - Or use `adb install -r app/build/outputs/apk/debug/app-debug.apk`.
