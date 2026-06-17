@@ -2,6 +2,14 @@
 
 A modern Android snake game with a dark neon style, built with Kotlin and Jetpack Compose.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/neonsnake-menu.png" alt="Neon Snake main menu" width="240" />
+  <img src="docs/screenshots/neonsnake-gameplay.png" alt="Neon Snake gameplay" width="240" />
+  <img src="docs/screenshots/neonsnake-gameover.png" alt="Neon Snake game over" width="240" />
+</p>
+
 ## Features
 - Classic snake gameplay
 - Swipe controls
